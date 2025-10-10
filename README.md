@@ -1,1 +1,1 @@
-# Prog1-Ovinger
+# Programmering 1 øvinger
